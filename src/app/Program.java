@@ -18,6 +18,9 @@ public class Program {
 		
 		System.out.println("----------------WELCOME----------------");
 		System.out.println("----------------Seja Bem Vindo----------------");
+		System.out.println("----------------Seja Bem Vindo----------------");
+		System.out.println("----------------Seja Bem Vindo----------------");
+		System.out.println("----------------Seja Bem Vindo----------------");
 		System.out.println();
 		
 		System.out.print("Enter the Number of Employees:");
